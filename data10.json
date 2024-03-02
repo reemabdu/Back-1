@@ -1,37 +1,7 @@
-[
-  {
-    "id": 1,
-    "fname": "Reem",
-    "lname": "Abdu",
-    "age": 31,
-    "city": "Taiz"
-  },
-  {
-    "id": 2,
-    "fname": "eman",
-    "lname": "ahmed",
-    "age": 32,
-    "city": "Sanaa"
-  },
-  {
-    "id": 3,
-    "fname": "Haneen",
-    "lname": "Abdu",
-    "age": 30,
-    "city": "Aden"
-  },
-  {
-    "id": 4,
-    "fname": "Nada",
-    "lname": "Abdu",
-    "age": 19,
-    "city": "Eb"
-  },
-  {
-    "id": 5,
-    "fname": "Sami",
-    "lname": "Abdu",
-    "age": 33,
-    "city": "Taiz"
-  }
-]
+[{"fname":"reem","lname":"abum","age":50,"city":"taiz"},
+{"id":1,"fname":"Reem","lname":"abum","age":31,"city":"taiz"},
+{"id":3,"fname":"Nada","lname":"abum","age":26,"city":"taiz"},
+{"id":5,"fname":"Taha","lname":"abum","age":18,"city":"taiz"},
+{"id":7,"fname":"Abeer","lname":"abum","age":23,"city":"taiz"},
+{"id":9,"fname":"Mohammed","lname":"abum","age":19,"city":"taiz"},
+{"id":10,"fname":"Abdu","lname":"abum","age":29,"city":"taiz"}]
