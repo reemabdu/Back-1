@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fname": "Reem",
+    "lname": "Abdu",
+    "age": 31,
+    "city": "Taiz"
+  },
+  {
+    "id": 2,
+    "fname": "eman",
+    "lname": "ahmed",
+    "age": 32,
+    "city": "Sanaa"
+  },
+  {
+    "id": 3,
+    "fname": "Haneen",
+    "lname": "Abdu",
+    "age": 30,
+    "city": "Aden"
+  },
+  {
+    "id": 4,
+    "fname": "Nada",
+    "lname": "Abdu",
+    "age": 19,
+    "city": "Eb"
+  },
+  {
+    "id": 5,
+    "fname": "Sami",
+    "lname": "Abdu",
+    "age": 33,
+    "city": "Taiz"
+  }
+]
